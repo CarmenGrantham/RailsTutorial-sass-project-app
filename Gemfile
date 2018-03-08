@@ -11,6 +11,10 @@ gem 'rails', '~> 5.0.6'
 
 gem 'devise'
 gem 'milia', '~>1.3'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
+gem 'font-awesome-rails'
+
 
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
