@@ -42,7 +42,8 @@ group :development, :test do
   gem 'sqlite3'
 end
 group :production do
-  gem 'pg'
+  # Use postgres database
+  gem 'pg', '~> 0.11'  
 end
 
 group :development do
