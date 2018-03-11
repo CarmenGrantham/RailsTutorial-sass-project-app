@@ -15,6 +15,8 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'font-awesome-rails'
 gem 'bootstrap-datepicker-rails'
+gem 'aws-sdk-s3'
+
 
 
 # Use Puma as the app server
